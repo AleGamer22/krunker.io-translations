@@ -694,54 +694,54 @@ social.market.gift.amount Cantidad a regalar en
 social.market.fee.gift Sin cuota
 social.market.gift Regalar KR
 social.market.gift.msg Dejar un mensaje
-respawn.auto Auto Respawning in {0}
-custom.host.ranked Can't host match while in ranked.
-funds.insufficient Insufficient Funds
-funds.out It appears you have run out of Krunkies.
-custom.passcode.long Password too long
-custom.passcode.input Enter Server Password to join
-custom.tryagain Please try again.
+respawn.auto Auto Respawning in {0} Auto reapareciendo en {0} segundos
+custom.host.ranked Can't host match while in ranked. No puede hostear partidas mientras estas jugando Rankeds
+funds.insufficient Insufficient Funds Dinero Insuficiente
+funds.out It appears you have run out of Krunkies. Parece ser que te has quedado sin Krunkies
+custom.passcode.long Password too long Contraseña demasiado larga 
+custom.passcode.input Enter Server Password to join Ingresa la contraseña del servidor para ingresar
+custom.tryagain Please try again. Porfavor intentalo de nuevo
 purchase.kr.success Added {0} KR to your account
-limited.purchase.ask Are you sure you want to purchase [{0}] for {1} KR?
-limited.purchase.success Added {0} to your inventory
-pretend.exit press [{0}] again to exit
-settings.loaded Settings Loaded
-settings.loaded.none No settings found
-account.login.required Must be logged in
-account.banned.hack This account has been banned for Hacking.
-account.banned.appeal If you want to appeal your ban, contact:
-account.delete You may request to delete your account, if the request is not cancelled within 14 days the account and all associated data will be permanently removed.
-account.delete.request Are you sure you want to request an account deletion?
-account.delete.cancel Are you sure you want to cancel account deletion?
-spin.free.available FREE KR AVAILABLE!
-spin.free.claim This spin is available to claim once per Hour after completing a match.
-spin.free.disable These Popups can be disabled in General Settings
-mod.reset.0 Will take effect after respawning.
-mod.reset.1 Map Objects dont get reset
-windows.profile.picture Change Picture
-stats.assists Assists
-stats.nukes Nukes
-stats.melee Melee
-stats.fistkills Beatdowns
-stats.thrownkills Bullseyes
-stats.headshots Headshots
-stats.wallbangs Wallbangs
-stats.sprays Sprays Placed
-windows.host.default.settings Enabling Default Settings allows for storing Player Progress and Highscores
-windows.host.default.commands *Host Commands are Disabled in this mode: /noclip /god /smite etc
-windows.host.rewards Enabling KR Rewards forces the Server to use Default Settings & allows players to earn KR from the map funds:
-windows.store.wheels.sub Try your luck and spin for a chance to win some new skins!
-windows.store.currency * Prices in USD can be converted to your local currency at an exchange rate defined by the payment provider or bank
-windows.store.creator Consider Support your favorite Content Creator by using a Creator Code
-windows.chall.customs Challenges can't be completed in Custom Matches
-twitch.link Are you sure you want to link a twitch account?
-twitch.unlink Are you sure you want to unlink your twitch account?
-windows.clan.leave Are you sure you want to leave the clan?
-windows.clan.delete Are you sure you want to delete the clan?
-windows.clan.kick Are you sure you want kick {0} from the clan?
-windows.store.premium.purchase Are you sure you want to purchase {0} days of Premium?
-windows.playerlist.ban Are you sure you want ban {0} from this game?
-windows.playerlist.flag Are you sure you want to Flag {0}?
-windows.playerlist.unflag Are you sure you want to Unflag {0}?
-windows.playerlist.punish Are you sure you want to take action on {0}?
+limited.purchase.ask Are you sure you want to purchase [{0}] for {1} KR? Estas seguro que deseas comprar [{0}] por {1} KR
+limited.purchase.success Added {0} to your inventory Se añadio {0} a tu inventario
+pretend.exit press [{0}] again to exit Presiona [{0}] de nuevo para salir
+settings.loaded Settings Loaded Ajustes Cargados
+settings.loaded.none No settings found Ajustes no encontrados
+account.login.required Must be logged in Necesitas iniciar session
+account.banned.hack This account has been banned for Hacking. Esta cuenta ha sido baneada por hackear
+account.banned.appeal If you want to appeal your ban, contact: Si deseas apelar tu baneo, contacta con:
+account.delete You may request to delete your account, if the request is not cancelled within 14 days the account and all associated data will be permanently removed. Has solicitado eliminar tu cuenta, si la peticion no es cancelada en 14 dias la cuenta y todo asociada a el sera eliminada permanentemente.
+account.delete.request Are you sure you want to request an account deletion? Estas seguro que deseas solicitar eliminar tu cuenta?
+account.delete.cancel Are you sure you want to cancel account deletion? Estas seguro que deseas cancelar la elminacion de tu cuenta?
+spin.free.available FREE KR AVAILABLE! DISPONIBLE KR GRATIS!
+spin.free.claim This spin is available to claim once per Hour after completing a match. Este giro esta disponible para reclamar una vez cada hora despues de completar una partida.
+spin.free.disable These Popups can be disabled in General Settings. Estas alertas se pueden desactivar en los ajustes Generales.
+mod.reset.0 Will take effect after respawning. Esto tomara efecto despues de reaparecer
+mod.reset.1 Map Objects dont get reset Los objetos de los mapas no se reiniciara.
+windows.profile.picture Change Picture Cambiar foto de perfil
+stats.assists Assists Asistida
+stats.nukes Nukes Nukes
+stats.melee Melee Cuchillada
+stats.fistkills Beatdowns Palizas
+stats.thrownkills Bullseyes 
+stats.headshots Headshots Tiros a la cabeza
+stats.wallbangs Wallbangs Tiro atravesado 
+stats.sprays Sprays Placed Grafiti puesto
+windows.host.default.settings Enabling Default Settings allows for storing Player Progress and Highscores. Habilitar la configuración predeterminada permite almacenar el progreso del jugador y sus puntuaciones.
+windows.host.default.commands *Host Commands are Disabled in this mode: /noclip /god /smite etc * Los comandos de host están desactivados en este modo: / noclip / god / smite, etc.
+windows.host.rewards Enabling KR Rewards forces the Server to use Default Settings & allows players to earn KR from the map funds: Habilitar KR Rewards obliga al servidor a usar la configuración predeterminada y permite a los jugadores ganar KR de los fondos del mapa:
+windows.store.wheels.sub Try your luck and spin for a chance to win some new skins! ¡Prueba tu suerte y gira para tener la oportunidad de ganar nuevos aspectos!
+windows.store.currency * Prices in USD can be converted to your local currency at an exchange rate defined by the payment provider or bank Los precios en USD se pueden convertir a su moneda local a un tipo de cambio definido por el proveedor de pago o el banco.
+windows.store.creator Consider Support your favorite Content Creator by using a Creator Code Considere apoyar a su creador de contenido favorito usando su código de creador
+windows.chall.customs Challenges can't be completed in Custom Matches Los desafíos no se pueden completar en partidas personalizadas
+twitch.link Are you sure you want to link a twitch account? Estas seguro que deseas enlazar su cuenta de Twitch?
+twitch.unlink Are you sure you want to unlink your twitch account? Estas seguro que deseas desenlazar su cuenta de Twitch?
+windows.clan.leave Are you sure you want to leave the clan? Estas seguro que deseas abandonar este clan?
+windows.clan.delete Are you sure you want to delete the clan?  Estas seguro que deseas eliminar este clan?
+windows.clan.kick Are you sure you want kick {0} from the clan? Estas seguro que deseas expulsar a {0} de este clan?
+windows.store.premium.purchase Are you sure you want to purchase {0} days of Premium? Estas seguro que deseas comprar {0} dias de Premium?
+windows.playerlist.ban Are you sure you want ban {0} from this game? Estas seguro que deseas banear a {0} de este juego?
+windows.playerlist.flag Are you sure you want to Flag {0}? Estas seguro que deseas marcar a {0}?
+windows.playerlist.unflag Are you sure you want to Unflag {0}? estas seguro que deseas desmarcar a {0}?
+windows.playerlist.punish Are you sure you want to take action on {0}? Estas seguro que deseas tomar accion hacia {0}? 
 `;
